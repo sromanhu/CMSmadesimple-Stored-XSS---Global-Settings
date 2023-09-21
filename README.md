@@ -13,7 +13,8 @@
 
 When logging into the panel, we will go to the "Settings- Global Settings Menu." section off General Menu.
 
-![XSS Global Metadata](https://github.com/sromanhu/CMSmadesimple-Stored-XSS---Global-Settings/assets/87250597/243e7d1f-2bca-4acc-994a-63f926403700)
+![XSS Global Metadata](https://github.com/sromanhu/CMSmadesimple-Stored-XSS---Global-Settings/assets/87250597/bc00f0fd-5d58-4255-9050-4a6743d67dd1)
+
 
 
 
@@ -28,7 +29,8 @@ We edit that Global Settings Menu that we have created and see that we can injec
 
 
 In the following image you can see the embedded code that executes the payload in the main web.
-![XSS Global Metadata resultado](https://github.com/sromanhu/CMSmadesimple-Stored-XSS---Global-Settings/assets/87250597/ca7fd137-6975-4826-b1be-8dce3970ebee)
+![XSS Global Metadata resultado](https://github.com/sromanhu/CMSmadesimple-Stored-XSS---Global-Settings/assets/87250597/bb3f7f02-3b25-4151-84b0-93eb78a21635)
+
 
 
 
